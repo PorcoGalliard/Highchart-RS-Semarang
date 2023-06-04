@@ -8,7 +8,7 @@
       "case": 252
     },
     {
-      "abbrev": "HRMN",
+      "abbrev": "HRMNPDR",
       "parentKecamatan": "Semarang Tengah",
       "hospital": "RS Hermina Pandanaran",
       "lat": -6.98553,
@@ -22,6 +22,14 @@
       "lat": -6.99308,
       "lon": 110.40892,
       "case": 66
+    },
+    {
+      "abbrev": "HRMNBNY",
+      "parentKecamatan": "Banyumanik",
+      "hospital": "RS Hermina Banyumanik",
+      "lat": -7.07286,
+      "lon": 110.41184,
+      "case": 43
     },
     {
       "abbrev": "RMNI",
