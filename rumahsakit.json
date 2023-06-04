@@ -48,12 +48,12 @@
       "case": 33
     },
     {
-      "abbrev": "CA",
-      "parentState": "California",
-      "capital": "Sacramento",
-      "lat": 38.579065,
-      "lon": -121.491014,
-      "population": 466488
+      "abbrev": "ADHYTMA",
+      "parentKecamatan": "Ngaliyan",
+      "hospital": "RSUD Telogorejo",
+      "lat": -6.98479,
+      "lon": 110.35568,
+      "case": 25
     },
     {
       "abbrev": "CO",
