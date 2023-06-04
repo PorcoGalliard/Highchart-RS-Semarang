@@ -15,6 +15,14 @@
       "lon": 110.41281,
       "case": 81
     },
+        {
+      "abbrev": "KRDI",
+      "parentKecamatan": "Semarang Selatan",
+      "hospital": "RSUP Dr. Kariadi",
+      "lat": -6.99308,
+      "lon": 110.40892,
+      "case": 66
+    },
     {
       "abbrev": "RMNI",
       "parentKecamatan": "Semarang Selatan",
