@@ -40,12 +40,12 @@
       "case": 36
     },
     {
-      "abbrev": "AR",
-      "parentState": "Arkansas",
-      "capital": "Little Rock",
-      "lat": 34.748655,
-      "lon": -92.274494,
-      "population": 193524
+      "abbrev": "SLTNAGUNG",
+      "parentKecamatan": "Genuk",
+      "hospital": "RSI Sultan Agung",
+      "lat": -6.95503,
+      "lon": 110.46178,
+      "case": 33
     },
     {
       "abbrev": "CA",
