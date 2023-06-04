@@ -57,7 +57,7 @@
         type: 'mapbubble',
         dataLabels: {
           enabled: true,
-          format: '{point.hospital}'
+          format: '{point.hospital} = {point.case}'
         },
         accessibility: {
           point: {
