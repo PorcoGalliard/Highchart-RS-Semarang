@@ -16,7 +16,7 @@
   
     const chart = Highcharts.mapChart('container', {
       title: {
-        text: 'Ambulan Hebat Case'
+        text: 'Peta Persebaran Rumah Sakit Rujukan yang Ditangani oleh AH'
       },
   
       tooltip: {
