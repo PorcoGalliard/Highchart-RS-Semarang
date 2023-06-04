@@ -70,6 +70,16 @@
         color: H.getOptions().colors[0]
       }]
     });
+
+    const bhaktiWiraData = data.find(p => p.abbrev === 'BHKTI WIRATMTM');
+    bhaktiWiraData.color = '#FF0000';
+  
+    chart.update({
+      series: [{
+        name: 'State capital cities',
+        data: data
+      }]
+    });
   
     // Display custom label with lat/lon next to crosshairs
     document.getElementById('container').addEventListener('mousemove', e => {
