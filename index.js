@@ -1,29 +1,29 @@
 (async () => {
 
     const topology = await fetch(
-      'https://code.highcharts.com/mapdata/countries/us/us-all.topo.json'
+      'kecamatan_semarang.json'
     ).then(response => response.json());
   
     const data = await fetch(
-      'https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/us-capitals.json'
+      'rumahsakit.json'
     ).then(response => response.json());
   
     data.forEach(p => {
-      p.z = p.population;
+      p.z = p.case;
     });
   
     const H = Highcharts;
   
     const chart = Highcharts.mapChart('container', {
       title: {
-        text: 'Highcharts Maps lon/lat demo'
+        text: 'Ambulan Hebat Case'
       },
   
       tooltip: {
-        pointFormat: '{point.capital}, {point.parentState}<br>' +
+        pointFormat: '{point.hospital}, {point.parentKecamatan}<br>' +
           'Lon: {point.lon}<br>' +
           'Lat: {point.lat}<br>' +
-          'Population: {point.population}'
+          'Kasus: {point.case}'
       },
   
       xAxis: {
@@ -57,11 +57,11 @@
         type: 'mapbubble',
         dataLabels: {
           enabled: true,
-          format: '{point.capital}'
+          format: '{point.hospital}'
         },
         accessibility: {
           point: {
-            valueDescriptionFormat: '{point.capital}, {point.parentState}. Population {point.population}. Latitude {point.lat:.2f}, longitude {point.lon:.2f}.'
+            valueDescriptionFormat: '{point.hospital}, {point.parentKecamatan}. Case {point.case}. Latitude {point.lat:.2f}, longitude {point.lon:.2f}.'
           }
         },
         name: 'State capital cities',
