@@ -21,7 +21,7 @@
       "hospital": "RSUP Dr. Kariadi",
       "lat": -6.99308,
       "lon": 110.40892,
-      "case": 66
+      "case": 67
     },
     {
       "abbrev": "HRMNBNY",
@@ -56,363 +56,139 @@
       "case": 25
     },
     {
-      "abbrev": "CO",
-      "parentState": "Colorado",
-      "capital": "Denver",
-      "lat": 39.740010,
-      "lon": -104.992259,
-      "population": 600158
+      "abbrev": "BYMNK",
+      "parentKecamatan": "Banyumanik",
+      "hospital": "RS Banyumanik",
+      "lat": -7.06381,
+      "lon": 110.41648,
+      "case": 24
     },
     {
-      "abbrev": "CT",
-      "parentState": "Connecticut",
-      "capital": "Hartford",
-      "lat": 41.763325,
-      "lon": -72.674069,
-      "population": 124775
+      "abbrev": "BHKTI WIRATMTM",
+      "parentKecamatan": "Semarang Selatan",
+      "hospital": "RS BHAKTI WIRA TAMTAMA",
+      "lat": -6.98705,
+      "lon": 110.40767,
+      "case": 18
     },
     {
-      "abbrev": "DE",
-      "parentState": "Delaware",
-      "capital": "Dover",
-      "lat": 39.158035,
-      "lon": -75.524734,
-      "population": 36047
+      "abbrev": "PRMY",
+      "parentKecamatan": "Tembalang",
+      "hospital": "RS Primaya",
+      "lat": -7.0234139,
+      "lon": 110.4614668,
+      "case": 16
     },
     {
-      "abbrev": "FL",
-      "parentState": "Florida",
-      "capital": "Tallahassee",
-      "lat": 30.439775,
-      "lon": -84.280649,
-      "population": 181376
+      "abbrev": "BHYGKR",
+      "parentKecamatan": "Gayamsari",
+      "hospital": "RS Bhayangkara Semarang",
+      "lat": -7.00029,
+      "lon": 110.44659,
+      "case": 16
     },
     {
-      "abbrev": "GA",
-      "parentState": "Georgia",
-      "capital": "Atlanta",
-      "lat": 33.748315,
-      "lon": -84.391109,
-      "population": 420003
+      "abbrev": "PTWLSA",
+      "parentKecamatan": "Semarang Timur",
+      "hospital": "RS Panti Wilasa Dr. Cipto",
+      "lat": -6.97296,
+      "lon": 110.43494,
+      "case": 12
     },
     {
-      "abbrev": "HI",
-      "parentState": "Hawaii",
-      "capital": "Honolulu",
-      "lat": 21.304770,
-      "lon": -157.857614,
-      "population": 337256
+      "abbrev": "CLMBASIA",
+      "parentKecamatan": "Semarang Barat",
+      "hospital": "RS Columbia Asia",
+      "lat": -6.98427,
+      "lon": 110.38304,
+      "case": 12
     },
     {
-      "abbrev": "ID",
-      "parentState": "Idaho",
-      "capital": "Boise",
-      "lat": 43.606980,
-      "lon": -116.193409,
-      "population": 205671
+      "abbrev": "SLOAM",
+      "parentKecamatan": "Semarang Selatan",
+      "hospital": "Siloam Hospital Semarang",
+      "lat": -6.99904,
+      "lon": 110.43401,
+      "case": 11
     },
     {
-      "abbrev": "IL",
-      "parentState": "Illinois",
-      "capital": "Springfield",
-      "lat": 39.801055,
-      "lon": -89.643604,
-      "population": 116250
+      "abbrev": "STELSBTH",
+      "parentKecamatan": "Candisari",
+      "hospital": "RS St. Elisabeth",
+      "lat": -7.00762,
+      "lon": 110.41961,
+      "case": 10
     },
     {
-      "abbrev": "IN",
-      "parentState": "Indiana",
-      "capital": "Indianapolis",
-      "lat": 39.766910,
-      "lon": -86.149964,
-      "population": 820445
+      "abbrev": "TLGRJO",
+      "parentKecamatan": "Semarang Tengah",
+      "hospital": "RS Telogorejo",
+      "lat": -6.98732,
+      "lon": 110.42642,
+      "case": 7
     },
     {
-      "abbrev": "IA",
-      "parentState": "Iowa",
-      "capital": "Des Moines",
-      "lat": 41.589790,
-      "lon": -93.615659,
-      "population": 203433
+      "abbrev": "WLSCTRM",
+      "parentKecamatan": "Semarang Timur",
+      "hospital": "RS Panti Wilasa Citarum",
+      "lat": -6.96997,
+      "lon": 110.4398,
+      "case": 6
     },
     {
-      "abbrev": "KS",
-      "parentState": "Kansas",
-      "capital": "Topeka",
-      "lat": 39.049285,
-      "lon": -95.671184,
-      "population": 127473
+      "abbrev": "NSNLDPNGR",
+      "parentKecamatan": "Tembalang",
+      "hospital": "RS Nasional Diponegoro",
+      "lat": -7.04761,
+      "lon": 110.44364,
+      "case": 5
     },
     {
-      "abbrev": "KY",
-      "parentState": "Kentucky",
-      "capital": "Frankfort",
-      "lat": 38.195070,
-      "lon": -84.878694,
-      "population": 25527
+      "abbrev": "PRMTMEDIKA",
+      "parentKecamatan": "Ngaliyan",
+      "hospital": "RS Permata Medika",
+      "lat": -6.99998,
+      "lon": 110.3422,
+      "case": 1
     },
     {
-      "abbrev": "LA",
-      "parentState": "Louisiana",
-      "capital": "Baton Rouge",
-      "lat": 30.443345,
-      "lon": -91.186994,
-      "population": 229493
+      "abbrev": "AMINO",
+      "parentKecamatan": "Pedurungan",
+      "hospital": "RSJD Amino Gondohutomo",
+      "lat": -7.00933,
+      "lon": 110.46330,
+      "case": 1
     },
     {
-      "abbrev": "ME",
-      "parentState": "Maine",
-      "capital": "Augusta",
-      "lat": 44.318036,
-      "lon": -69.776218,
-      "population": 19136
+      "abbrev": "WLMBOOTH",
+      "parentKecamatan": "Gajah Mungkur",
+      "hospital": "RS William Booth",
+      "lat": -6.99718,
+      "lon": 110.40493,
+      "case": 1
     },
     {
-      "abbrev": "MD",
-      "parentState": "Maryland",
-      "capital": "Annapolis",
-      "lat": 38.976700,
-      "lon": -76.489934,
-      "population": 38394
+      "abbrev": "NGSRP",
+      "parentKecamatan": "Banyumanik",
+      "hospital": "Puskesmas Ngesrep",
+      "lat": -7.03361,
+      "lon": 110.41855,
+      "case": 1
     },
     {
-      "abbrev": "MA",
-      "parentState": "Massachusetts",
-      "capital": "Boston",
-      "lat": 42.358635,
-      "lon": -71.056699,
-      "population": 617594
+      "abbrev": "KRGDRO",
+      "parentKecamatan": "Semarang Timur",
+      "hospital": "Puskesmas Karangdoro",
+      "lat": -6.96385,
+      "lon": 110.43584,
+      "case": 1
     },
     {
-      "abbrev": "MI",
-      "parentState": "Michigan",
-      "capital": "Lansing",
-      "lat": 42.731940,
-      "lon": -84.552249,
-      "population": 114297
-    },
-    {
-      "abbrev": "MN",
-      "parentState": "Minnesota",
-      "capital": "Saint Paul",
-      "lat": 44.943829,
-      "lon": -93.093326,
-      "population": 285068
-    },
-    {
-      "abbrev": "MS",
-      "parentState": "Mississippi",
-      "capital": "Jackson",
-      "lat": 32.298690,
-      "lon": -90.180489,
-      "population": 173514
-    },
-    {
-      "abbrev": "MO",
-      "parentState": "Missouri",
-      "capital": "Jefferson City",
-      "lat": 38.577515,
-      "lon": -92.177839,
-      "population": 43079
-    },
-    {
-      "abbrev": "MT",
-      "parentState": "Montana",
-      "capital": "Helana",
-      "lat": 46.589760,
-      "lon": -112.021202,
-      "population": 28190
-    },
-    {
-      "abbrev": "NE",
-      "parentState": "Nebraska",
-      "capital": "Lincoln",
-      "lat": 40.813620,
-      "lon": -96.707739,
-      "population": 258379
-    },
-    {
-      "abbrev": "NV",
-      "parentState": "Nevada",
-      "capital": "Carson City",
-      "lat": 39.164885,
-      "lon": -119.766999,
-      "population": 55274
-    },
-    {
-      "abbrev": "NH",
-      "parentState": "New Hampshire",
-      "capital": "Concord",
-      "lat": 43.207250,
-      "lon": -71.536604,
-      "population": 42695
-    },
-    {
-      "abbrev": "NJ",
-      "parentState": "New Jersey",
-      "capital": "Trenton",
-      "lat": 40.217875,
-      "lon": -74.759404,
-      "population": 84913
-    },
-    {
-      "abbrev": "NM",
-      "parentState": "New Mexico",
-      "capital": "Santa Fe",
-      "lat": 35.691543,
-      "lon": -105.937406,
-      "population": 67947
-    },
-    {
-      "abbrev": "NY",
-      "parentState": "New York",
-      "capital": "Albany",
-      "lat": 42.651445,
-      "lon": -73.755254,
-      "population": 97856
-    },
-    {
-      "abbrev": "NC",
-      "parentState": "North Carolina",
-      "capital": "Raleigh",
-      "lat": 35.785510,
-      "lon": -78.642669,
-      "population": 403892
-    },
-    {
-      "abbrev": "ND",
-      "parentState": "North Dakota",
-      "capital": "Bismarck",
-      "lat": 46.805372,
-      "lon": -100.779334,
-      "population": 61272
-    },
-    {
-      "abbrev": "OH",
-      "parentState": "Ohio",
-      "capital": "Columbus",
-      "lat": 39.961960,
-      "lon": -83.002984,
-      "population": 787033
-    },
-    {
-      "abbrev": "OK",
-      "parentState": "Oklahoma",
-      "capital": "Oklahoma City",
-      "lat": 35.472015,
-      "lon": -97.520354,
-      "population": 579999
-    },
-    {
-      "abbrev": "OR",
-      "parentState": "Oregon",
-      "capital": "Salem",
-      "lat": 44.933260,
-      "lon": -123.043814,
-      "population": 154637
-    },
-    {
-      "abbrev": "PA",
-      "parentState": "Pennsylvania",
-      "capital": "Harrisburg",
-      "lat": 40.259865,
-      "lon": -76.882230,
-      "population": 49528
-    },
-    {
-      "abbrev": "RI",
-      "parentState": "Rhode Island",
-      "capital": "Providence",
-      "lat": 41.823875,
-      "lon": -71.411994,
-      "population": 178042
-    },
-    {
-      "abbrev": "SC",
-      "parentState": "South Carolina",
-      "capital": "Columbia",
-      "lat": 33.998550,
-      "lon": -81.045249,
-      "population": 129272
-    },
-    {
-      "abbrev": "SD",
-      "parentState": "South Dakota",
-      "capital": "Pierre",
-      "lat": 44.368924,
-      "lon": -100.350158,
-      "population": 13646
-    },
-    {
-      "abbrev": "TN",
-      "parentState": "Tennessee",
-      "capital": "Nashville",
-      "lat": 36.167783,
-      "lon": -86.778365,
-      "population": 601222
-    },
-    {
-      "abbrev": "TX",
-      "parentState": "Texas",
-      "capital": "Austin",
-      "lat": 30.267605,
-      "lon": -97.742984,
-      "population": 790390
-    },
-    {
-      "abbrev": "UT",
-      "parentState": "Utah",
-      "capital": "Salt Lake City",
-      "lat": 40.759505,
-      "lon": -111.888229,
-      "population": 186440
-    },
-    {
-      "abbrev": "VT",
-      "parentState": "Vermont",
-      "capital": "Montpelier",
-      "lat": 44.260299,
-      "lon": -72.576264,
-      "population": 7855
-    },
-    {
-      "abbrev": "VA",
-      "parentState": "Virginia",
-      "capital": "Richmond",
-      "lat": 37.540700,
-      "lon": -77.433654,
-      "population": 204214
-    },
-    {
-      "abbrev": "WA",
-      "parentState": "Washington",
-      "capital": "Olympia",
-      "lat": 47.039231,
-      "lon": -122.891366,
-      "population": 46478
-    },
-    {
-      "abbrev": "WV",
-      "parentState": "West Virginia",
-      "capital": "Charleston",
-      "lat": 38.350195,
-      "lon": -81.638989,
-      "population": 51400
-    },
-    {
-      "abbrev": "WI",
-      "parentState": "Wisconsin",
-      "capital": "Madison",
-      "lat": 43.072950,
-      "lon": -89.386694,
-      "population": 233209
-    },
-    {
-      "abbrev": "WY",
-      "parentState": "Wyoming",
-      "capital": "Cheyenne",
-      "lat": 41.134815,
-      "lon": -104.821544,
-      "population": 59466
+      "abbrev": "HLMHRA",
+      "parentKecamatan": "Semarang Timur",
+      "hospital": "Puskesmas Halmahera",
+      "lat": -6.99487,
+      "lon": 110.43776,
+      "case": 1
     }
   ]
