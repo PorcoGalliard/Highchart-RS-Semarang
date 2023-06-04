@@ -4,16 +4,16 @@
       "parentKecamatan": "Tembalang",
       "hospital": "RSUD KRMT Wongsonegoro",
       "lat": -7.0339775,
-      "lon": -86.300629,
-      "population": 205764
+      "lon": 110.4658531,
+      "case": 252
     },
     {
-      "abbrev": "AK",
-      "parentState": "Alaska",
-      "capital": "Juneau",
-      "lat": 58.299740,
-      "lon": -134.406794,
-      "population": 31275
+      "abbrev": "HRMN",
+      "parentKecamatan": "Semarang Tengah",
+      "hospital": "RS Hermina Pandanaran",
+      "lat": -6.98553,
+      "lon": 110.41281,
+      "case": 252
     },
     {
       "abbrev": "AZ",
