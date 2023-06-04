@@ -16,7 +16,7 @@
   
     const chart = Highcharts.mapChart('container', {
       title: {
-        text: 'Peta Persebaran Rumah Sakit Rujukan yang Ditangani oleh AH'
+        text: 'Peta Persebaran Rumah Sakit Rujukan Pasien AH'
       },
   
       tooltip: {
@@ -57,7 +57,7 @@
         type: 'mapbubble',
         dataLabels: {
           enabled: true,
-          format: '{point.hospital} = {point.case}'
+          format: '{point.hospital} ({point.case})'
         },
         accessibility: {
           point: {
