@@ -13,15 +13,15 @@
       "hospital": "RS Hermina Pandanaran",
       "lat": -6.98553,
       "lon": 110.41281,
-      "case": 252
+      "case": 81
     },
     {
-      "abbrev": "AZ",
-      "parentState": "Arizona",
-      "capital": "Phoenix",
-      "lat": 33.448260,
-      "lon": -112.075774,
-      "population": 1445632
+      "abbrev": "RMNI",
+      "parentKecamatan": "Semarang Selatan",
+      "hospital": "RS Roemani",
+      "lat": -7.00102,
+      "lon": 110.42829,
+      "case": 36
     },
     {
       "abbrev": "AR",
