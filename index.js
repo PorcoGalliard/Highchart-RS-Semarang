@@ -67,12 +67,12 @@
         name: 'State capital cities',
         data: data,
         maxSize: '12%',
-        color: H.getOptions().colors[0]
+        color: H.getOptions().colors[7]
       }]
     });
 
     const bhaktiWiraData = data.find(p => p.abbrev === 'BHKTI WIRATMTM');
-    bhaktiWiraData.color = '#FF0000';
+    bhaktiWiraData.color = '#00BFFF';
   
     chart.update({
       series: [{
