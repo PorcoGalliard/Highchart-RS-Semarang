@@ -21,7 +21,7 @@
       "hospital": "RSUP Dr. Kariadi",
       "lat": -6.99308,
       "lon": 110.40892,
-      "case": 67
+      "case": 68
     },
     {
       "abbrev": "HRMNBNY",
@@ -48,9 +48,9 @@
       "case": 33
     },
     {
-      "abbrev": "ADHYTMA",
+      "abbrev": "TUGUREJO",
       "parentKecamatan": "Ngaliyan",
-      "hospital": "RSUD Telogorejo",
+      "hospital": "RSUD Tugorejo",
       "lat": -6.98479,
       "lon": 110.35568,
       "case": 25
