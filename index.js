@@ -15,6 +15,14 @@
     const H = Highcharts;
   
     const chart = Highcharts.mapChart('container', {
+      chart: {
+        events: {
+          load: function() {
+            this.setSize(window.innerWidth, window.innerHeight);
+          }
+        }
+      },
+
       title: {
         text: 'Peta Persebaran Rumah Sakit Rujukan Pasien AH'
       },
